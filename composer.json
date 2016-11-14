@@ -1,7 +1,7 @@
 {
     "name": "a1s/php-zabbix-agent",
     "description": "Zabbix Agent implemented in PHP for long living php-servers",
-    "authors": [
+    "authors": [ 
         {
             "name": "A1-Systems Team",
             "email": "info@a1-systems.com"
